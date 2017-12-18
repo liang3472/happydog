@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
 
-  <title>Cocos Creator | happydog</title>
+  <title>圣诞救援队</title>
 
   <!--http://www.html5rocks.com/en/mobile/mobifying/-->
   <meta name="viewport"
@@ -25,7 +25,7 @@
   <meta name="full-screen" content="yes"/>
   <meta name="x5-fullscreen" content="true"/>
   <meta name="360-fullscreen" content="true"/>
-  
+
   <!-- force screen orientation on some browser -->
   <meta name="screen-orientation" content="portrait"/>
   <meta name="x5-orientation" content="portrait">
@@ -39,13 +39,16 @@
 
   <link rel="stylesheet" type="text/css" href="style-mobile.css"/>
 
+
 </head>
 <body>
   <canvas id="GameCanvas" oncontextmenu="event.preventDefault()" tabindex="0"></canvas>
   <div id="splash">
+    <span class="tip"></span>
     <div class="progress-bar stripes">
       <span style="width: 0%"></span>
     </div>
+    <span class="loading">Loading...</span>
   </div>
 <script src="src/settings.js" charset="utf-8"></script>
 <script src="main.js" charset="utf-8"></script>
