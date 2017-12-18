@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="75b5080d-6e48-4e0b-a5a4-51673cc645ad" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img-3mEQ.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main.bf18.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/share.html" afterPath="" />
-    </list>
+    <list default="true" id="75b5080d-6e48-4e0b-a5a4-51673cc645ad" name="Default" comment="" />
     <ignored path="happydog.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
